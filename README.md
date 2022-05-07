@@ -1,2 +1,3 @@
 # Website
-IC Studio's main website.
+Ice Cream Studio's main website.
+When the bot is in production, the website will be hosted on an external server, and the version hosted on GitHub pages will be available at https://previewicstudios.dev/.
